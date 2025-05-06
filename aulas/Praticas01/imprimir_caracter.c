@@ -3,7 +3,7 @@
 int main() {
     printf("%c\n", 'A');
 
-    printf("ola %s\n", "thiago");
+    printf("ola %s\n", "arthur");
 
     return 0;
 }
